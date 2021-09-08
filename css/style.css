@@ -1,0 +1,16 @@
+@font-face {
+    font-family: robo;
+    src: url(../fonts/RobotoCondensed-Regular.ttf);
+}
+
+.navbar{
+    border: #009EE2 4px solid ;
+    opacity: .6;
+}
+header{
+    min-height: 100vh;
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0,.7)) ,url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+}
